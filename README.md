@@ -1,24 +1,26 @@
-# my_personal_website
+<h1 align="center">My Personal Website</h1>
 
-## Project setup
-```
-yarn install
-```
+<div align="center">
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+[![Pipeline status](https://github.com/Anatole-DC/personnal_website/actions/workflows/release.yml/badge.svg)](https://github.com/Anatole-DC/personnal_website/releases)
+![Version](https://img.shields.io/github/v/release/Anatole-DC/personnal_website)
+[![semantic-release: angular](https://img.shields.io/badge/semantic--release-vue-41b883?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+[![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.carloscuesta.me/)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+</div>
 
-### Lints and fixes files
-```
-yarn lint
-```
+This repository is the source code of my personnal website.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+___
+
+**Technos :** VueJS
+
+**Author :** Anatole de Chauveron
+
+**Licence :** All rights reserved
+
+___
+
+## Contact
+
+_For any questions about this repository, please contact the author at **adechauveron@gmail.com**._
