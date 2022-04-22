@@ -12,6 +12,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@semantic-release/git": "^10.0.1",
     "core-js": "^3.8.3",
     "semantic-release": "^19.0.2",
     "semantic-release-gitmoji": "^1.4.4",
