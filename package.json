@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/Anatole-DC/personnal_website.git"
   },
-  "version": "0.1.0",
+  "version": "0.0.0-development",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
