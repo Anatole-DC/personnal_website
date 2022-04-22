@@ -16,6 +16,7 @@ module.exports = {
           minor: [':sparkles:'],
           patch: [
             ':bug:',
+            ':memo:',
             ':ambulance:',
             ':lipstick:',
             ':lock:',
