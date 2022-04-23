@@ -1,6 +1,6 @@
 <template>
   <div class="contact">
-    <h1>Videogame Developement</h1>
+    <h1>Contact</h1>
   </div>
 </template>
 
