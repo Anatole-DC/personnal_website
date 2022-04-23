@@ -3,8 +3,8 @@ module.exports = defineConfig({
   transpileDependencies: true,
   pages: {
     index: {
-      entry: 'src/main.js',
-      title: 'Anatole de Chauveron',
-    }
-  }
+      entry: "src/main.js",
+      title: "Anatole de Chauveron",
+    },
+  },
 });
